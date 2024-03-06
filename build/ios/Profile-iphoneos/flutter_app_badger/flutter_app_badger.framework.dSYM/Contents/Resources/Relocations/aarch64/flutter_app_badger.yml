@@ -1,0 +1,12 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/arturo/NearMe/near_me/build/ios/Profile-iphoneos/flutter_app_badger/flutter_app_badger.framework/flutter_app_badger'
+relocations:
+  - { offsetInCU: 0x33, offset: 0x3C6C, size: 0x8, addend: 0x0, symName: _flutter_app_badgerVersionString, symObjAddr: 0x0, symBinAddr: 0x4538, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x3CA0, size: 0x8, addend: 0x0, symName: _flutter_app_badgerVersionNumber, symObjAddr: 0x30, symBinAddr: 0x4568, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x3CDC, size: 0x8, addend: 0x0, symName: '+[FlutterAppBadgerPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA4 }
+  - { offsetInCU: 0x52, offset: 0x3D07, size: 0x8, addend: 0x0, symName: '+[FlutterAppBadgerPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA4 }
+  - { offsetInCU: 0xAB, offset: 0x3D60, size: 0x8, addend: 0x0, symName: '-[FlutterAppBadgerPlugin enableNotifications]', symObjAddr: 0xA4, symBinAddr: 0x40A4, symSize: 0x44 }
+  - { offsetInCU: 0xF4, offset: 0x3DA9, size: 0x8, addend: 0x0, symName: '___45-[FlutterAppBadgerPlugin enableNotifications]_block_invoke', symObjAddr: 0xE8, symBinAddr: 0x40E8, symSize: 0x4 }
+  - { offsetInCU: 0x12F, offset: 0x3DE4, size: 0x8, addend: 0x0, symName: '-[FlutterAppBadgerPlugin handleMethodCall:result:]', symObjAddr: 0xEC, symBinAddr: 0x40EC, symSize: 0x1F4 }
+...

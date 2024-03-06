@@ -1,0 +1,1 @@
+ /Users/arturo/NearMe/near_me/.dart_tool/flutter_build/90dae036dacd13a504a8d6e5ec7778d9/native_assets.yaml: 

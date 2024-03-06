@@ -1,0 +1,11 @@
+framework module open_settings {
+  umbrella header "open_settings-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module open_settings.Swift {
+  header "open_settings-Swift.h"
+  requires objc
+}

@@ -1,0 +1,51 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/arturo/NearMe/near_me/build/ios/Profile-iphoneos/the_apple_sign_in/the_apple_sign_in.framework/the_apple_sign_in'
+relocations:
+  - { offsetInCU: 0x34, offset: 0x58636, size: 0x8, addend: 0x0, symName: _the_apple_sign_inVersionString, symObjAddr: 0x0, symBinAddr: 0x6CD8, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x5866B, size: 0x8, addend: 0x0, symName: _the_apple_sign_inVersionNumber, symObjAddr: 0x30, symBinAddr: 0x6D08, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x586A8, size: 0x8, addend: 0x0, symName: '-[AppleIDButton initWithFrame:viewIdentifier:arguments:binaryMessenger:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x23C }
+  - { offsetInCU: 0x94, offset: 0x58715, size: 0x8, addend: 0x0, symName: '-[AppleIDButton initWithFrame:viewIdentifier:arguments:binaryMessenger:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x23C }
+  - { offsetInCU: 0x146, offset: 0x587C7, size: 0x8, addend: 0x0, symName: '-[AppleIDButton view]', symObjAddr: 0x23C, symBinAddr: 0x423C, symSize: 0x8 }
+  - { offsetInCU: 0x17D, offset: 0x587FE, size: 0x8, addend: 0x0, symName: '-[AppleIDButton onTapped]', symObjAddr: 0x244, symBinAddr: 0x4244, symSize: 0x14 }
+  - { offsetInCU: 0x1B0, offset: 0x58831, size: 0x8, addend: 0x0, symName: '-[AppleIDButton buttonTypeFromString:]', symObjAddr: 0x258, symBinAddr: 0x4258, symSize: 0x5C }
+  - { offsetInCU: 0x1F3, offset: 0x58874, size: 0x8, addend: 0x0, symName: '-[AppleIDButton buttonStyleFromString:]', symObjAddr: 0x2B4, symBinAddr: 0x42B4, symSize: 0x64 }
+  - { offsetInCU: 0x236, offset: 0x588B7, size: 0x8, addend: 0x0, symName: '-[AppleIDButton .cxx_destruct]', symObjAddr: 0x318, symBinAddr: 0x4318, symSize: 0x30 }
+  - { offsetInCU: 0x27, offset: 0x5896F, size: 0x8, addend: 0x0, symName: '-[AppleIDButtonFactory initWithMessenger:]', symObjAddr: 0x0, symBinAddr: 0x4348, symSize: 0x78 }
+  - { offsetInCU: 0x6D, offset: 0x589B5, size: 0x8, addend: 0x0, symName: '-[AppleIDButtonFactory initWithMessenger:]', symObjAddr: 0x0, symBinAddr: 0x4348, symSize: 0x78 }
+  - { offsetInCU: 0xB4, offset: 0x589FC, size: 0x8, addend: 0x0, symName: '-[AppleIDButtonFactory createArgsCodec]', symObjAddr: 0x78, symBinAddr: 0x43C0, symSize: 0xC }
+  - { offsetInCU: 0xE7, offset: 0x58A2F, size: 0x8, addend: 0x0, symName: '-[AppleIDButtonFactory createWithFrame:viewIdentifier:arguments:]', symObjAddr: 0x84, symBinAddr: 0x43CC, symSize: 0xB0 }
+  - { offsetInCU: 0x14A, offset: 0x58A92, size: 0x8, addend: 0x0, symName: '-[AppleIDButtonFactory .cxx_destruct]', symObjAddr: 0x134, symBinAddr: 0x447C, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x58B42, size: 0x8, addend: 0x0, symName: '-[AuthorizationControllerDelegate initWithCompletion:]', symObjAddr: 0x0, symBinAddr: 0x4488, symSize: 0x78 }
+  - { offsetInCU: 0xEE, offset: 0x58C09, size: 0x8, addend: 0x0, symName: '-[AuthorizationControllerDelegate initWithCompletion:]', symObjAddr: 0x0, symBinAddr: 0x4488, symSize: 0x78 }
+  - { offsetInCU: 0x135, offset: 0x58C50, size: 0x8, addend: 0x0, symName: '-[AuthorizationControllerDelegate authorizationController:didCompleteWithAuthorization:]', symObjAddr: 0x78, symBinAddr: 0x4500, symSize: 0x14C }
+  - { offsetInCU: 0x1BA, offset: 0x58CD5, size: 0x8, addend: 0x0, symName: '-[AuthorizationControllerDelegate authorizationController:didCompleteWithError:]', symObjAddr: 0x1C4, symBinAddr: 0x464C, symSize: 0xD4 }
+  - { offsetInCU: 0x224, offset: 0x58D3F, size: 0x8, addend: 0x0, symName: '-[AuthorizationControllerDelegate .cxx_destruct]', symObjAddr: 0x298, symBinAddr: 0x4720, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x58DF7, size: 0x8, addend: 0x0, symName: '+[CredentialConverter dictionaryFromAppleIDCredential:]', symObjAddr: 0x0, symBinAddr: 0x472C, symSize: 0x418 }
+  - { offsetInCU: 0x51, offset: 0x58E21, size: 0x8, addend: 0x0, symName: '+[CredentialConverter dictionaryFromAppleIDCredential:]', symObjAddr: 0x0, symBinAddr: 0x472C, symSize: 0x418 }
+  - { offsetInCU: 0xA4, offset: 0x58E74, size: 0x8, addend: 0x0, symName: '+[CredentialConverter dictionaryFromPersonNameComponents:]', symObjAddr: 0x418, symBinAddr: 0x4B44, symSize: 0x2AC }
+  - { offsetInCU: 0xE7, offset: 0x58EB7, size: 0x8, addend: 0x0, symName: '+[CredentialConverter stringForCredentialState:]', symObjAddr: 0x6C4, symBinAddr: 0x4DF0, symSize: 0x24 }
+  - { offsetInCU: 0x27, offset: 0x58F63, size: 0x8, addend: 0x0, symName: '+[NSErrorConverter dictionaryFromError:]', symObjAddr: 0x0, symBinAddr: 0x4E14, symSize: 0x218 }
+  - { offsetInCU: 0x43, offset: 0x58F7F, size: 0x8, addend: 0x0, symName: '+[NSErrorConverter dictionaryFromError:]', symObjAddr: 0x0, symBinAddr: 0x4E14, symSize: 0x218 }
+  - { offsetInCU: 0x8A, offset: 0x58FC6, size: 0x8, addend: 0x0, symName: '+[NSErrorConverter valueOrNSNull:]', symObjAddr: 0x218, symBinAddr: 0x502C, symSize: 0x58 }
+  - { offsetInCU: 0x27, offset: 0x5906A, size: 0x8, addend: 0x0, symName: '+[TheAppleSignInPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x5084, symSize: 0x164 }
+  - { offsetInCU: 0xC8, offset: 0x5910B, size: 0x8, addend: 0x0, symName: '+[TheAppleSignInPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x5084, symSize: 0x164 }
+  - { offsetInCU: 0x147, offset: 0x5918A, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin handleMethodCall:result:]', symObjAddr: 0x164, symBinAddr: 0x51E8, symSize: 0x22C }
+  - { offsetInCU: 0x1C9, offset: 0x5920C, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin performRequests:result:]', symObjAddr: 0x390, symBinAddr: 0x5414, symSize: 0x304 }
+  - { offsetInCU: 0x280, offset: 0x592C3, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x694, symBinAddr: 0x5718, symSize: 0x10 }
+  - { offsetInCU: 0x2A5, offset: 0x592E8, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x6A4, symBinAddr: 0x5728, symSize: 0x8 }
+  - { offsetInCU: 0x2C4, offset: 0x59307, size: 0x8, addend: 0x0, symName: '___47-[TheAppleSignInPlugin performRequests:result:]_block_invoke', symObjAddr: 0x6AC, symBinAddr: 0x5730, symSize: 0x38 }
+  - { offsetInCU: 0x334, offset: 0x59377, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40r, symObjAddr: 0x6E4, symBinAddr: 0x5768, symSize: 0x3C }
+  - { offsetInCU: 0x35D, offset: 0x593A0, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x720, symBinAddr: 0x57A4, symSize: 0x2C }
+  - { offsetInCU: 0x37C, offset: 0x593BF, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin createAppleIDRequest:]', symObjAddr: 0x74C, symBinAddr: 0x57D0, symSize: 0x98 }
+  - { offsetInCU: 0x3DF, offset: 0x59422, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin getCredentialState:result:]', symObjAddr: 0x7E4, symBinAddr: 0x5868, symSize: 0x118 }
+  - { offsetInCU: 0x44E, offset: 0x59491, size: 0x8, addend: 0x0, symName: '___50-[TheAppleSignInPlugin getCredentialState:result:]_block_invoke', symObjAddr: 0x8FC, symBinAddr: 0x5980, symSize: 0x110 }
+  - { offsetInCU: 0x4C4, offset: 0x59507, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0xA0C, symBinAddr: 0x5A90, symSize: 0x10 }
+  - { offsetInCU: 0x4ED, offset: 0x59530, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0xA1C, symBinAddr: 0x5AA0, symSize: 0x8 }
+  - { offsetInCU: 0x50C, offset: 0x5954F, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin onListenWithArguments:eventSink:]', symObjAddr: 0xA24, symBinAddr: 0x5AA8, symSize: 0xAC }
+  - { offsetInCU: 0x55F, offset: 0x595A2, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin onCancelWithArguments:]', symObjAddr: 0xAD0, symBinAddr: 0x5B54, symSize: 0x54 }
+  - { offsetInCU: 0x5A2, offset: 0x595E5, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin onCredentialRevokedNotification:]', symObjAddr: 0xB24, symBinAddr: 0x5BA8, symSize: 0x20 }
+  - { offsetInCU: 0x5ED, offset: 0x59630, size: 0x8, addend: 0x0, symName: '-[TheAppleSignInPlugin .cxx_destruct]', symObjAddr: 0xB44, symBinAddr: 0x5BC8, symSize: 0xC }
+  - { offsetInCU: 0x27, offset: 0x598DF, size: 0x8, addend: 0x0, symName: '+[Utils valueOrNSNull:]', symObjAddr: 0x0, symBinAddr: 0x5BD4, symSize: 0x58 }
+  - { offsetInCU: 0x43, offset: 0x598FB, size: 0x8, addend: 0x0, symName: '+[Utils valueOrNSNull:]', symObjAddr: 0x0, symBinAddr: 0x5BD4, symSize: 0x58 }
+...

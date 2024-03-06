@@ -1,0 +1,56 @@
+
+{
+  "project_info": {
+    "project_number": "1019803507870",
+    "firebase_url": "https://ichiani-flutter-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ichiani-flutter",
+    "storage_bucket": "ichiani-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019803507870:android:c471f1e023919f3848ef8f",
+        "android_client_info": {
+          "package_name": "com.example.near_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019803507870-nr9tq1b0mu1s40vr0cjuhhc0hhulffnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.near_me",
+            "certificate_hash": "277fc5c90b9e1a0e6be83201675d62f0fd76f7fd"
+          }
+        },
+        {
+          "client_id": "1019803507870-5o2o1p22ogekkt7cf7kq2s36gshplr2c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe4aO73p5YNpcGEiGsQIUKQCL8k-R4qbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019803507870-5o2o1p22ogekkt7cf7kq2s36gshplr2c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019803507870-7lrp1ff7c0de4mt317nto9esbidsgaes.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ichianiFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

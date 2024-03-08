@@ -143,6 +143,7 @@ class _SettingPageState extends State<SettingPage> {
       print(hostsList);
       setState(() {});
     });
+
     Future.delayed(Duration(seconds: 2), () {
       _getWifiData();
       //etData2();
@@ -258,17 +259,13 @@ class _SettingPageState extends State<SettingPage> {
                                 height: 5,
                               ),
                               Text(
-                                '${AppLocalizations.of(context)!.ciao} 👋🏼 ciao',
+                                '${AppLocalizations.of(context)!.ciao} 👋🏼',
                                 style: TextStyle(color: textColor2, fontWeight: FontWeight.bold, fontSize: 14),
                               ),
                               Text(
                                 '${widget.name} ${widget.surname} ',
                                 style: TextStyle(color: textColor, fontWeight: FontWeight.bold, fontSize: 20),
                               ),
-                              /*Text(
-                                    widget.email,
-                                    style: TextStyle(color: textColor2, fontWeight: FontWeight.w600, fontSize: 12),
-                                  ),*/
                             ],
                           ),
                           Spacer(),

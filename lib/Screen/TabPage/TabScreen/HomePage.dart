@@ -143,6 +143,7 @@ class _SettingPageState extends State<SettingPage> {
       print(hostsList);
       setState(() {});
     });
+
     Future.delayed(Duration(seconds: 2), () {
       _getWifiData();
       //etData2();
@@ -258,7 +259,7 @@ class _SettingPageState extends State<SettingPage> {
                                 height: 5,
                               ),
                               Text(
-                                '${AppLocalizations.of(context)!.ciao} 👋🏼 ciao',
+                                '${AppLocalizations.of(context)!.ciao} 👋🏼',
                                 style: TextStyle(color: textColor2, fontWeight: FontWeight.bold, fontSize: 14),
                               ),
                               Text(

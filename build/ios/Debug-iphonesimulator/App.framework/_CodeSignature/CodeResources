@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		52qAH2fyYQ31EY8DFJWY29oZkbw=
+		PKURl09v6MKVroXuHSLU4ykbQ3M=
 		</data>
 		<key>flutter_assets/assets/.DS_Store</key>
 		<data>
@@ -370,11 +370,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		5vbeyYdlMZh5WpxBceC6Wd7/b+A=
+		NCrHh2I/9lzrnFtL1HoDKjZ7+as=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		Gj0Uhe+pgWNdHfNdOc4m4a3iJ0k=
+		XsztLzI4zRvJ30sqlMHdrjzfKKo=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -430,11 +430,11 @@
 		</data>
 		<key>flutter_assets/shaders/ink_sparkle.frag</key>
 		<data>
-		p79zzJ85/yOQo5OGiBW5XF0+CxY=
+		hBZgIGdEvhX+IvXd5bjkjJVu6+s=
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		UNcVHSR0Z0MGicb0ZZ5Fkt7qswc=
+		ap40xllbguuMfkV4mJkKh/NQWg4=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -464,7 +464,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iSr1tp8WTV27TRexVBSa7ypPxdwVq5zNOpSac5U2wT8=
+			0JeShgpVV1fIWc+Q/FNQRjCf7bCch8K3RM5WawB+YV8=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/App%20Icon%20Dark.png</key>
@@ -1059,14 +1059,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kDwb9cQcfB4+bFgGs+O4iyr3Cq7yZYl6wyZKtzdI/A=
+			3rvMR75WR8kps7lNIY2RyLcGN/CMl8fbUB7vlaky7/s=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eJL7qoyV3xtBcBpNdOuqqdZHKdEgy0UgNa65WY+6gcI=
+			P+Vfo5VYXiv3VY+ToKaAmmOzZ8y7R/d8pZfw4UGGkM4=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1164,14 +1164,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ggsttSoN6c2kH04/7vNnFwBQTTy8j9ILVF4lU1822Bk=
+			0T+w183eMSTh5phjUfkXjg4ZpPYnVqkH4Gv3Ge4QCh8=
 			</data>
 		</dict>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			O1fD3XrcFtfOXylA9VmKrOBqetyqlZFqPB097PQAfMw=
+			6eubeZZqyUNzwtBtT1r66GIIirzwERUZET0Gp6oe/CI=
 			</data>
 		</dict>
 	</dict>

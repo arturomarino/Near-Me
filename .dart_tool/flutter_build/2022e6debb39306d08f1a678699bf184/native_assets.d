@@ -1,0 +1,1 @@
+ /Users/matteomartella/Downloads/near_me24/.dart_tool/flutter_build/2022e6debb39306d08f1a678699bf184/native_assets.yaml: 

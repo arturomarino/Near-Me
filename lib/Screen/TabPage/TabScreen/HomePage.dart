@@ -259,7 +259,7 @@ class _SettingPageState extends State<SettingPage> {
                                 height: 5,
                               ),
                               Text(
-                                '${AppLocalizations.of(context)!.ciao} 👋🏼 sucaa',
+                                '${AppLocalizations.of(context)!.ciao} 👋🏼 arturo suca',
                                 style: TextStyle(color: textColor2, fontWeight: FontWeight.bold, fontSize: 14),
                               ),
                               Text(
